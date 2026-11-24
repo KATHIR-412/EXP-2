@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:*KATHIR T* | | **Reg. No.:*26011621* | |
+| **Name:**KATHIR T** | | **Reg. No**:**26011621** | |
 |---|---|---|---|
-| **Date:*22|11|26* | | **Batch / Section:*2026-30* | |
+| **Date**:**22/11/26** | | **Batch / Section**:**2026-30** | |
 
 ---
 
