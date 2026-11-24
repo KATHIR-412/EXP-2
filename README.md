@@ -80,29 +80,13 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test
 
-| S. No. | Field current If (A) | Generated EMF Eg (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="821" height="548" alt="Screenshot 2026-10-25 134317" src="https://github.com/user-attachments/assets/6579d949-5d1d-4ff1-b079-ac1697817ef9" />
+
 
 ### B. Load test
 
-| S. No. | Load current IL (A) | Load voltage VL (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+<img width="817" height="527" alt="Screenshot 2026-10-25 134329" src="https://github.com/user-attachments/assets/15d46e29-9725-4997-9ec7-cd6212918e57" />
+
 
 ## FORMULA
 
@@ -112,17 +96,20 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ## MODEL GRAPH
 
+<img width="754" height="526" alt="Screenshot 2026-10-25 134344" src="https://github.com/user-attachments/assets/fef709bd-704f-445c-80e4-1892f2f5d8f9" />
+<img width="1239" height="610" alt="Screenshot 2026-10-25 134457" src="https://github.com/user-attachments/assets/566147d8-8d1f-49c1-8005-48abe0398e0b" />
+ht
+
+<img width="705" heig="530" alt="Screenshot 2026-10-25 134352" src="https://github.com/user-attachments/assets/c6d8c2ce-8c98-4866-b906-517fb4d4e90c" />
+<img width="1217" height="374" alt="Screenshot 2026-10-25 134522" src="https://github.com/user-attachments/assets/390b08dd-43d9-4b7a-8269-13c68834767c" />
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
+<img width="1273" height="601" alt="image" src="https://github.com/user-attachments/assets/c0403a7b-aa66-40e4-812b-c975f5af47ba" />
 
-**Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
-
-**Figure 5:** Load characteristics
+<img width="1279" height="741" alt="image" src="https://github.com/user-attachments/assets/14f9d4a1-9a31-42cb-8ead-10116dc71cd1" />
 
 ## RESULT
 
