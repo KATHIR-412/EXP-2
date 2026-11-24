@@ -1,6 +1,6 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:**KATHIR T** | | **Reg. No**:**26011621** | |
+| **Name**:**KATHIR T** | | **Reg. No**:**26011621** | |
 |---|---|---|---|
 | **Date**:**22/11/26** | | **Batch / Section**:**2026-30** | |
 
@@ -66,15 +66,13 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-24 at 4 42 22 PM" src="https://github.com/user-attachments/assets/d8ccb3aa-fd48-4c79-909c-675adb503c9a" />
 
-**Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1016" height="578" alt="Screenshot 2026-11-24 164630" src="https://github.com/user-attachments/assets/108b49dd-1707-47dd-abae-2c4d562da6ed" />
 
-**Figure 3:** Virtual Lab simulation – load test
 
 ## TABULATION
 
